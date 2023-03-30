@@ -64,11 +64,11 @@ const liste = document.querySelector("#text11");
 
 if (languageDict.hasOwnProperty(browserLang)) {
   const translations = languageDict[browserLang];
-  info.info = translations.info;
-  reg.reg = translations.reg;
+  info.textContent = translations.info;
+  reg.textContent = translations.reg;
   energy.textContent = translations.energy;
-  proteine.textContent = translations.proteines;
-  glucide.textContent = translations.glucides;
+  proteines.textContent = translations.proteines;
+  glucides.textContent = translations.glucides;
   lipides.textContent = translations.lipides;
   sucres.textContent = translations.sucres;
   acideGrasSatures.textContent = translations.acideGrasSatures;
