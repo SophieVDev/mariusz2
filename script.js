@@ -10,7 +10,7 @@ const languageDict = {
     sucres: "Sucres (g/100g)",
     acideGrasSatures: "Acide Gras saturés (g/100g)",
     selChlorureSodium: "Sel chlorure de sodium (g/100g)",
-    etiquette: "Étiquette",
+    etiquette: "Étiquette ",
     liste:
       "Eau, Protéines, Glucides, Alcool, Sels minéraux, Vitamines Oligo-éléments, Polyphénols, Acides minéraux",
   },
@@ -24,7 +24,7 @@ const languageDict = {
     sucres: "Sugar (g/100g)",
     acideGrasSatures: "Saturated Fatty Acid (g/100g)",
     selChlorureSodium: "Sodium chloride salt (g/100g)",
-    etiquette: "Label",
+    etiquette: "Label ",
     liste:
       "Water, Proteins, Carbohydrates, Alcohol, Mineral salts, Vitamins Trace elements, Polyphenols, Mineral acids",
   },
