@@ -38,7 +38,7 @@ const languageDict = {
     sucres: "azúcar (g/100g)",
     acideGrasSatures: "Ácido Graso Saturado  (g/100g)",
     selChlorureSodium: "Sal de cloruro de sodio (g/100g)",
-    etiquette: "etiqueta",
+    etiquette: "etiqueta ",
     liste:
       "Agua, Proteínas, Carbohidratos, Alcohol, Sales minerales, Vitaminas Oligoelementos, Polifenoles, Ácidos minerales",
   },
